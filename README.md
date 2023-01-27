@@ -155,6 +155,10 @@ text-align: center;
 color: #FFFFFF;
 
 
+
+
+
+
 /* CSE */
 
 position: absolute;
@@ -162,7 +166,6 @@ width: 320px;
 height: 35px;
 left: 23px;
 top: 521px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
